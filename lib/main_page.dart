@@ -9,7 +9,7 @@ List<Widget> slide = [
       Column(
         children: [
           Container(
-            child: Image.asset("assets/lu_img12.jpg"),
+            child: Image.asset("assets/lu_img27.jpg"),
           ),
           Row(
             children: [
@@ -44,7 +44,7 @@ List<Widget> slide = [
           ),
           SizedBox(height:50),
           Container(
-            child: Image.asset("assets/lu_img13.jpg"),
+            child: Image.asset("assets/lu_img28.jpg"),
           ),
           SizedBox(width:30),
           Container(
@@ -109,7 +109,7 @@ List<Widget> slide2 = [
       Column(
         children: [
           Container(
-            child: Image.asset("assets/lu_img10.jpg"),
+            child: Image.asset("assets/lu_img25.jpg"),
           ),
           InkWell(
             onTap: (){
@@ -135,7 +135,7 @@ List<Widget> slide2 = [
           ),
           SizedBox(height:50),
           Container(
-            child: Image.asset("assets/lu_img11.jpg"),
+            child: Image.asset("assets/lu_img26.jpg"),
           ),
           Container(
             padding: EdgeInsets.only(top:30,bottom:30),
